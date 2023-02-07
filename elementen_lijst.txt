@@ -1,0 +1,8 @@
+Inputveld voor password, gebruikersnaam en email-adres
+
+Submit knop
+
+Duidelijk contrast in kleuren
+
+Duidelijke layout
+
